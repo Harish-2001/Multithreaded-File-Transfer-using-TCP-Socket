@@ -19,7 +19,7 @@ The server program can handle an arbitrary number of concurrent connections and 
 # Contributers
 <table>
   <tr>
-   <td align="center"><img src="https://avatars.githubusercontent.com/u/66979717?v=4" width="210px;" height="210px;" alt=""/><br /><sub><b>Kireeti Nittala</b></sub></a><br />
+   <td align="center"><img src="https://avatars.githubusercontent.com/u/66979717?v=4" width="200px;" height="200px;" alt=""/><br /><sub><b>Kireeti Nittala</b></sub></a><br />
   <br/>
    <p align="center">
    <a href="https://github.com/Kireeti2001" alt="Github">
@@ -27,7 +27,7 @@ The server program can handle an arbitrary number of concurrent connections and 
   </a>
   </p>
 </td>
-<td align="center"><img src="https://user-images.githubusercontent.com/51742771/144631900-5f912e5d-ba9c-477e-bbbd-edd9ce246c42.jpeg" width="210px;" height="210px;" alt=""/><br /><sub><b>Prabhat Addanki</b></sub></a><br />
+<td align="center"><img src="https://user-images.githubusercontent.com/51742771/144631900-5f912e5d-ba9c-477e-bbbd-edd9ce246c42.jpeg" width="200px;" height="200px;" alt=""/><br /><sub><b>Prabhat Addanki</b></sub></a><br />
   <br/>
    <p align="center">
    <a href="https://github.com/prabhat187" alt="Github">
@@ -35,7 +35,7 @@ The server program can handle an arbitrary number of concurrent connections and 
   </a>
   </p>
 </td>
-   <td align="center"><img src="https://avatars.githubusercontent.com/u/78893155?v=4" width="210px;" height="210px;"  alt=""/><br/><sub><b>Haswanth Kolanuvada
+   <td align="center"><img src="https://avatars.githubusercontent.com/u/78893155?v=4" width="200px;" height="200px;"  alt=""/><br/><sub><b>Haswanth Kolanuvada
 </b></sub></a><br />
    <br/>
    <p align="center">
@@ -44,11 +44,19 @@ The server program can handle an arbitrary number of concurrent connections and 
   </a>
   </p>
 </td>
-   <td align="center"><img src="https://avatars.githubusercontent.com/u/90751356?v=4" width="210px"; height="210px;" alt=""/><br /><sub><b>Pavan Kuchupudi</b></sub></a><br />
+   <td align="center"><img src="https://avatars.githubusercontent.com/u/90751356?v=4" width="200px"; height="200px;" alt=""/><br /><sub><b>Pavan Kuchupudi</b></sub></a><br />
    <br/>
    <p align="center">
    <a href="https://github.com/PavanKuchipudi" alt="Github">
      <img src="http://www.iconninja.com/files/241/825/211/round-collaboration-social-github-code-circle-network-icon.svg" width = "30">
+  </a>
+  </p>
+</td>
+<td align="center"><img src="https://avatars.githubusercontent.com/u/85001085?v=4" width="200px;" height="200px;" alt=""/><br /><sub><b>KIRAN MULLAPUDI</b></sub></a><br />
+  <br/>
+   <p align="center">
+   <a href="https://github.com/kiran-alt" alt="Github">
+     <img src="http://www.iconninja.com/files/241/825/211/round-collaboration-social-github-code-circle-network-icon.svg" width = "20">
   </a>
   </p>
 </td>
