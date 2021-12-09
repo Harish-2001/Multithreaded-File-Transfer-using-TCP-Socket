@@ -17,17 +17,40 @@ The server program can handle an arbitrary number of concurrent connections and 
 ![image](https://user-images.githubusercontent.com/66979717/145279246-65c8d299-9aae-431d-8fa6-14f231d66f3a.png)
 
 # Contributers
-<a href="https://github.com/Haswanth2002">
-  <img src="https://avatars.githubusercontent.com/u/78893155?s=200&v=4">
-</a>
-
-<a href="https://github.com/prabhat187">
-  <img src=https://avatars.githubusercontent.com/u/90691270?s=200&v=4">
-</a>
-
-
-
-<a href="">
-  <img src=">
-</a>
-                                                                      
+<table>
+  <tr>
+   <td align="center"><img src="https://avatars.githubusercontent.com/u/66979717?v=4" width="210px;" height="210px;" alt=""/><br /><sub><b>Kireeti Nittala</b></sub></a><br />
+  <br/>
+   <p align="center">
+   <a href="https://github.com/Kireeti2001" alt="Github">
+     <img src="http://www.iconninja.com/files/241/825/211/round-collaboration-social-github-code-circle-network-icon.svg" width = "30">
+  </a>
+  </p>
+</td>
+<td align="center"><img src="https://user-images.githubusercontent.com/51742771/144631900-5f912e5d-ba9c-477e-bbbd-edd9ce246c42.jpeg" width="210px;" height="210px;" alt=""/><br /><sub><b>Prabhat Addanki</b></sub></a><br />
+  <br/>
+   <p align="center">
+   <a href="https://github.com/prabhat187" alt="Github">
+     <img src="http://www.iconninja.com/files/241/825/211/round-collaboration-social-github-code-circle-network-icon.svg" width = "30">
+  </a>
+  </p>
+</td>
+   <td align="center"><img src="https://avatars.githubusercontent.com/u/78893155?v=4" width="210px;" height="210px;"  alt=""/><br/><sub><b>Haswanth Kolanuvada
+</b></sub></a><br />
+   <br/>
+   <p align="center">
+   <a href="https://github.com/Haswanth2002" alt="Github">
+     <img src="http://www.iconninja.com/files/241/825/211/round-collaboration-social-github-code-circle-network-icon.svg" width = "30">
+  </a>
+  </p>
+</td>
+   <td align="center"><img src="https://avatars.githubusercontent.com/u/90751356?v=4" width="210px"; height="210px;" alt=""/><br /><sub><b>Pavan Kuchupudi</b></sub></a><br />
+   <br/>
+   <p align="center">
+   <a href="https://github.com/PavanKuchipudi" alt="Github">
+     <img src="http://www.iconninja.com/files/241/825/211/round-collaboration-social-github-code-circle-network-icon.svg" width = "30">
+  </a>
+  </p>
+</td>
+    </tr>
+    </table>
