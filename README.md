@@ -56,7 +56,16 @@ The server program can handle an arbitrary number of concurrent connections and 
   <br/>
    <p align="center">
    <a href="https://github.com/kiran-alt" alt="Github">
-     <img src="http://www.iconninja.com/files/241/825/211/round-collaboration-social-github-code-circle-network-icon.svg" width = "20">
+     <img src="http://www.iconninja.com/files/241/825/211/round-collaboration-social-github-code-circle-network-icon.svg" width = "30">
+  </a>
+  </p>
+</td>
+</td>
+<td align="center"><img src="https://user-images.githubusercontent.com/72653126/149631735-374dabbd-afe7-4050-9db5-66146aed935b.png" width="200px;" height="200px;" alt=""/><br /><sub><b>Yarlagadda Harish</b></sub></a><br />
+  <br/>
+   <p align="center">
+   <a href="https://github.com/Harish-2001" alt="Github">
+     <img src="http://www.iconninja.com/files/241/825/211/round-collaboration-social-github-code-circle-network-icon.svg" width = "30">
   </a>
   </p>
 </td>
